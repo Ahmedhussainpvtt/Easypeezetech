@@ -1,36 +1,6 @@
-# EasyPeeze Technologies - 2026-11-23
-User-agent: Googlebot
-Allow: /
-Disallow:
-
-User-agent: Googlebot-Image
-Allow: /
-Disallow:
-
-User-agent: Googlebot-News
-Allow: /
-Disallow:
-
 User-agent: *
 Allow: /
-Disallow:
-
-User-agent: GPTBot
-Allow: /
-
-User-agent: ChatGPT-User
-Allow: /
-
-User-agent: Google-Extended
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: anthropic-ai
-Allow: /
+Disallow: /pay/
+Disallow: /khsynloyrebnsbyo/
 
 Sitemap: https://easypeezetech.com/sitemap.xml
