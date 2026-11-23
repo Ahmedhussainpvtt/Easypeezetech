@@ -18,6 +18,7 @@ export const modules = {
   faq: lazyModule(() => import('./pages/FaqPages')),
   glossary: lazyModule(() => import('./pages/GlossaryPages')),
   service: lazyModule(() => import('./pages/ServicePage')),
+  blog: lazyModule(() => import('./pages/BlogPages')),
 }
 
 export function moduleForPath(pathname = '/') {
@@ -26,6 +27,7 @@ export function moduleForPath(pathname = '/') {
   if (p.startsWith('faq')) return modules.faq
   if (p.startsWith('glossary')) return modules.glossary
   if (p.startsWith('services/')) return modules.service
+  if (p === 'blog' || p.startsWith('blog/')) return modules.blog
   return modules.simple
 }
 

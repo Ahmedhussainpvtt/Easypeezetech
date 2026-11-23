@@ -264,21 +264,6 @@ export function Contact() {
   )
 }
 
-export function BlogHub() {
-  return (
-    <PageHero>
-      <div className="container">
-        <Reveal className="section-kicker">Resources</Reveal>
-        <Reveal as="h1">Blog</Reveal>
-        <Reveal as="p">Guides on software, apps and getting found online.</Reveal>
-        <MagneticButton to="/" className="btn btn-primary" style={{ marginTop: '1rem' }}>
-          Back home
-        </MagneticButton>
-      </div>
-    </PageHero>
-  )
-}
-
 export function Privacy() {
   return <HtmlPage html={privacyHtml} />
 }

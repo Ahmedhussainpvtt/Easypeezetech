@@ -16,7 +16,7 @@ import './motion-extras.css'
 const Decor = lazy(() => import('./components/Decor'))
 const Seo = lazy(() => import('./seo/Seo'))
 
-const { simple, faq, glossary, service } = modules
+const { simple, faq, glossary, service, blog } = modules
 
 function useIdle() {
   const [ready, setReady] = useState(false)
@@ -92,7 +92,8 @@ export default function App() {
             <Route path="about" element={<Page mod={simple} name="About" />} />
             <Route path="pricing" element={<Page mod={simple} name="Pricing" />} />
             <Route path="contact" element={<Page mod={simple} name="Contact" />} />
-            <Route path="blog" element={<Page mod={simple} name="BlogHub" />} />
+            <Route path="blog" element={<Page mod={blog} name="BlogHub" />} />
+            <Route path="blog/:slug" element={<Page mod={blog} name="BlogPost" />} />
             <Route path="privacy" element={<Page mod={simple} name="Privacy" />} />
             <Route path="terms" element={<Page mod={simple} name="Terms" />} />
             <Route path="faq" element={<Page mod={faq} name="FaqHub" />} />

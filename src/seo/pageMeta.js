@@ -2,6 +2,7 @@ import { BRAND, SITE, SERVICES, SOCIALS, TAGLINE } from '../data/site.js'
 import faqData from '../data/faqTopics.js'
 import glossaryTerms from '../data/glossaryTerms.js'
 import { getService, SERVICE_SLUGS } from '../data/services.js'
+import { BLOG_POSTS, getPost, BLOG_AUTHOR } from '../data/blogPosts.js'
 
 const OG = `${SITE}/assets/og-image.jpg`
 
@@ -135,9 +136,9 @@ export function metaForPath(pathname) {
     },
     '/blog': {
       title: `Blog | ${BRAND}`,
-      desc: `Guides on software, apps, SEO, AEO, GEO and hiring a development company in India.`,
-      keywords: 'software blog India, GEO AEO SEO guides, custom software cost India',
-      crawl: `<h1>Blog</h1><p>Guides on software, apps and getting found online.</p>`,
+      desc: `Deep guides on custom software, mobile apps, websites, SEO, AEO, GEO and hiring a development company in India.`,
+      keywords: 'software blog India, GEO AEO SEO guides, custom software cost India, Flutter vs React Native',
+      crawl: crawlBlogHub(),
     },
     '/privacy': {
       title: `Privacy policy | ${BRAND}`,
@@ -236,6 +237,30 @@ export function metaForPath(pathname) {
     }
   }
 
+  const blogMatch = path.match(/^\/blog\/([^/]+)$/)
+  if (blogMatch) {
+    const post = getPost(blogMatch[1])
+    if (post) {
+      const title = `${post.title} | ${BRAND}`
+      const image = `${SITE}/assets/${post.image || post.coverFallback || 'og-image.jpg'}`
+      return {
+        path,
+        title,
+        desc: post.desc,
+        keywords: post.keywords,
+        canonical: abs(path),
+        ogImage: image,
+        ogType: 'article',
+        jsonld: [
+          orgGraph(abs(path), title, post.desc),
+          articleJsonLd(post, abs(path), image),
+          faqJsonLd(post.faqs || []),
+        ],
+        crawlHtml: crawlBlogPost(post),
+      }
+    }
+  }
+
   const title = `${BRAND} | Custom Software, Mobile Apps, Websites, SEO`
   const desc = `${BRAND} - custom software, mobile apps, websites, SEO, AEO and GEO.`
   return {
@@ -256,6 +281,7 @@ export function allSeoRoutes() {
     '/pricing',
     '/contact',
     '/blog',
+    ...BLOG_POSTS.map((p) => `/blog/${p.slug}`),
     '/privacy',
     '/terms',
     '/faq',
@@ -266,6 +292,26 @@ export function allSeoRoutes() {
     ...glossaryTerms.map((t) => `/glossary/${t.slug}`),
   ]
   return [...new Set(routes)]
+}
+
+export function articleJsonLd(post, url, image) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: post.title,
+    description: post.desc,
+    image,
+    datePublished: post.date,
+    dateModified: post.updated || post.date,
+    author: { '@type': 'Organization', name: BLOG_AUTHOR, url: `${SITE}/` },
+    publisher: {
+      '@type': 'Organization',
+      name: BRAND,
+      logo: { '@type': 'ImageObject', url: `${SITE}/assets/logo-mark.png` },
+    },
+    mainEntityOfPage: url,
+    inLanguage: 'en-IN',
+  }
 }
 
 function esc(s) {
@@ -315,4 +361,31 @@ ${(s.features || []).map((f) => `<h2>${esc(f.title)}</h2><p>${esc(f.text)}</p>`)
 <section><h2>${esc(s.section?.faq_h2 || 'FAQ')}</h2>${(s.faqs || [])
     .map(([q, a]) => `<details><summary>${esc(q)}</summary><p>${esc(a)}</p></details>`)
     .join('')}</section>`
+}
+
+function crawlBlogHub() {
+  return `<h1>Blog</h1><p>Deep guides on software, apps, SEO, AEO, GEO and hiring in India.</p>
+${BLOG_POSTS.map(
+    (p) =>
+      `<article><h2><a href="/blog/${p.slug}/">${esc(p.title)}</a></h2><time datetime="${esc(p.date)}">${esc(p.date)}</time><p>${esc(p.desc)}</p></article>`,
+  ).join('')}`
+}
+
+function crawlBlogPost(post) {
+  const body = post.sections
+    .map((s) => {
+      const bits = s.blocks
+        .map((b) => {
+          if (b.type === 'h3') return `<h3>${esc(b.text)}</h3>`
+          if (b.type === 'ul') return `<ul>${b.items.map((i) => `<li>${esc(i)}</li>`).join('')}</ul>`
+          return `<p>${esc(b.text)}</p>`
+        })
+        .join('')
+      return `<h2>${esc(s.h2)}</h2>${bits}`
+    })
+    .join('')
+  const faqs = (post.faqs || [])
+    .map(([q, a]) => `<details><summary>${esc(q)}</summary><p>${esc(a)}</p></details>`)
+    .join('')
+  return `<article><h1>${esc(post.title)}</h1><p>${esc(post.desc)}</p>${body}<h2>FAQs</h2>${faqs}</article>`
 }
