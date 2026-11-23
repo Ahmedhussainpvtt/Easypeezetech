@@ -1,4 +1,4 @@
-# EasyPeeze Technologies
+# EasyPeeze Technologies - 2026-11-23
 User-agent: Googlebot
 Allow: /
 Disallow:

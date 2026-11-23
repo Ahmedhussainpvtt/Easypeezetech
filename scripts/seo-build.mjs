@@ -127,8 +127,8 @@ const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://w
 writeFileSync(join(dist, 'sitemap.xml'), sitemap, 'utf8')
 writeFileSync(join(dist, 'sitemaps.xml'), sitemap, 'utf8')
 
-# Explicit Googlebot first. Empty Disallow = allow all paths. Keep this file as a real
-# static asset so GitHub Pages never serves the SPA 404.html body as robots.txt.
+// Explicit Googlebot first. Empty Disallow = allow all paths. Keep this as a real
+// static file so GitHub Pages never serves the SPA 404.html body as robots.txt.
 const robots = `# EasyPeeze Technologies - ${new Date().toISOString().slice(0, 10)}
 User-agent: Googlebot
 Allow: /
