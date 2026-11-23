@@ -199,9 +199,9 @@ select {
 
 .footer-logo--full .logo-full,
 .footer-logo img.logo-full {
-  width: min(280px, 78vw);
+  width: min(220px, 72vw);
   height: auto;
-  max-height: 176px;
+  max-height: 138px;
   object-fit: contain;
 }
 

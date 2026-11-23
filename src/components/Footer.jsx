@@ -93,8 +93,8 @@ export default function Footer() {
             <img
               className="logo-full"
               src={asset('logo-full.png')}
-              width="280"
-              height="176"
+              width="220"
+              height="138"
               alt={BRAND}
             />
           </Link>
