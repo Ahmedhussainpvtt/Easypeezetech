@@ -90,9 +90,13 @@ export default function Footer() {
       <Reveal className="container footer-grid" variants={stagger(0.06)} as="div">
         <motion.div className="footer-brand" variants={fadeUp}>
           <Link className="footer-logo" to="/" aria-label={`${BRAND} home`}>
-            <img src={asset('logo-mark-96.webp')} width="44" height="44" alt="" />
-            <span>
-              EasyPeeze<em>Technologies</em>
+            <img className="logo-mark" src={asset('logo-mark-96.webp')} width="40" height="40" alt="" />
+            <span className="logo-wordmark" aria-hidden="true">
+              <span className="logo-name">
+                <span className="logo-easy">Easy</span>
+                <span className="logo-peeze">Peeze</span>
+              </span>
+              <span className="logo-sub">Technologies</span>
             </span>
           </Link>
           <p className="footer-tagline">{TAGLINE}</p>

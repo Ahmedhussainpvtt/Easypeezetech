@@ -386,8 +386,10 @@ main {
 .hero-word {
   display: inline-block;
   overflow: hidden;
-  vertical-align: top;
+  vertical-align: bottom;
   margin-right: 0.28em;
+  padding: 0.08em 0.02em 0.14em;
+  margin-bottom: -0.06em;
   perspective: 900px;
 }
 .hero-word > span {
