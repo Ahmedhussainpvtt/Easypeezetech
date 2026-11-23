@@ -6,7 +6,7 @@ from PIL import Image
 BRAND = Path(__file__).resolve().parent.parent / "brand"
 out = Path(os.environ["TEMP"])
 
-for name in ("jb-icon-transparent.png", "jb-logo-full-transparent.png"):
+for name in ("ep-icon-transparent.png", "ep-logo-full-transparent.png"):
     im = Image.open(BRAND / name).convert("RGBA")
     for label, color in (("dark", (7, 11, 20, 255)), ("light", (248, 250, 252, 255))):
         bg = Image.new("RGBA", im.size, color)

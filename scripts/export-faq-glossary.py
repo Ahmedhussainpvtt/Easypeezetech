@@ -7,10 +7,10 @@ import sys
 from pathlib import Path
 
 ROOT = Path(r"c:\Users\Alex\OneDrive\Desktop\ExpenseTracker")
-JB = ROOT / "EasyPeeze Technologies"
+EasyPeeze = ROOT / "EasyPeeze Technologies"
 OUT = ROOT / "easypeezetech-staging" / "src" / "data"
 
-sys.path.insert(0, str(JB))
+sys.path.insert(0, str(EasyPeeze))
 from _faq_bank import all_faq_topics, count_faqs  # noqa: E402
 
 BRAND = "EasyPeeze Technologies"
