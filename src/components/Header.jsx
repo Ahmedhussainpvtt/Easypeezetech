@@ -36,8 +36,8 @@ export default function Header() {
           <motion.img
             className="logo-mark"
             src={asset('logo-mark-96.webp')}
-            width="44"
-            height="44"
+            width="72"
+            height="72"
             alt=""
             whileHover={{ rotate: 8, scale: 1.08 }}
             transition={{ type: 'spring', stiffness: 300, damping: 16 }}

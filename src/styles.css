@@ -31,7 +31,7 @@
   --font-body: "Figtree", "Figtree Fallback", system-ui, sans-serif;
   --max: 1160px;
   --page-gutter: 1.25rem;
-  --header-h: 78px;
+  --header-h: 96px;
   --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
 
   color-scheme: light;
@@ -145,7 +145,12 @@ select {
 .site-header.is-scrolled {
   background: rgba(var(--bg-rgb), 0.88);
   border-bottom-color: var(--line);
-  height: 68px;
+  height: 84px;
+}
+
+.site-header.is-scrolled .logo--mark-only .logo-mark {
+  width: 60px;
+  height: 60px;
 }
 
 .nav {
@@ -184,8 +189,8 @@ select {
 }
 
 .logo--mark-only .logo-mark {
-  width: 44px;
-  height: 44px;
+  width: 72px;
+  height: 72px;
 }
 
 .footer-logo--full {
