@@ -64,6 +64,9 @@
 
 html {
   scroll-behavior: smooth;
+  /* Clip sideways bleed (marquees, orbs, 100vw gutters). Without this, mobile
+     layout width grows and position:fixed right docks sit half off-screen. */
+  overflow-x: clip;
 }
 
 body {
@@ -72,7 +75,7 @@ body {
   color: var(--text);
   background: var(--bg);
   line-height: 1.65;
-  overflow-x: hidden;
+  overflow-x: clip;
   min-height: 100vh;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -865,8 +868,9 @@ a.nav-cta {
   display: flex;
   gap: 1.15rem;
   overflow-x: auto;
-  padding: 0.35rem max(var(--page-gutter), calc((100vw - var(--max)) / 2)) 1.5rem;
-  scroll-padding-inline: max(var(--page-gutter), calc((100vw - var(--max)) / 2));
+  /* Prefer 100% over 100vw so mobile layout width does not grow past the screen. */
+  padding: 0.35rem max(var(--page-gutter), calc((100% - min(100%, var(--max))) / 2)) 1.5rem;
+  scroll-padding-inline: max(var(--page-gutter), calc((100% - min(100%, var(--max))) / 2));
   scroll-snap-type: x mandatory;
   scrollbar-width: thin;
   scrollbar-color: rgba(var(--teal-rgb), 0.45) transparent;
@@ -2061,7 +2065,7 @@ html.js-ready .band-visual.is-in {
 
 .sticky-dock {
   position: fixed;
-  right: calc(1rem + env(safe-area-inset-right, 0px));
+  right: calc(1rem + env(safe-area-inset-right, 0px) + var(--dock-vv-right, 0px));
   bottom: calc(1.25rem + env(safe-area-inset-bottom, 0px) + var(--dock-vv-pad, 0px));
   z-index: 120;
   display: flex;
@@ -2670,7 +2674,6 @@ html.js-ready .band-visual.is-in {
   font-family: var(--font-body);
   font-weight: 700;
   line-height: 1;
-  order: 3;
 }
 
 .back-to-top span[aria-hidden="true"] {
@@ -2693,8 +2696,6 @@ html.js-ready .band-visual.is-in {
   pointer-events: auto;
   transform: translateY(0);
 }
-
-.sticky-dock .dock-btn.quote { order: 1; }
 
 .back-to-top:hover {
   border-color: rgba(var(--teal-rgb), 0.55);
@@ -3471,7 +3472,7 @@ body::after {
   }
   /* Keep Contact / Top clear of mobile browser chrome + home indicator */
   .sticky-dock {
-    right: calc(0.85rem + env(safe-area-inset-right, 0px));
+    right: calc(0.85rem + env(safe-area-inset-right, 0px) + var(--dock-vv-right, 0px));
     bottom: calc(1.75rem + env(safe-area-inset-bottom, 0px) + var(--dock-vv-pad, 0px));
   }
   .pixel-row {
