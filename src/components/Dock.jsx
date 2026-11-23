@@ -60,7 +60,7 @@ export default function Dock() {
             whileHover={{ y: -3 }}
             whileTap={{ scale: 0.94 }}
             onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-            style={{ display: 'grid', '--float-delay': '0.9s', order: 0 }}
+            style={{ display: 'grid', '--float-delay': '0.9s', order: 3 }}
           >
             <span aria-hidden="true">↑</span>
             <span className="back-to-top-label">Back to top</span>
