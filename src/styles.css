@@ -183,6 +183,18 @@ select {
   display: block;
 }
 
+.footer-logo--full {
+  display: block;
+}
+
+.footer-logo--full .logo-full,
+.footer-logo img.logo-full {
+  width: min(220px, 72vw);
+  height: auto;
+  max-height: 138px;
+  object-fit: contain;
+}
+
 .logo-wordmark {
   display: flex;
   flex-direction: column;
