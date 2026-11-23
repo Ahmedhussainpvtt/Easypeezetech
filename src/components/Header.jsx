@@ -32,23 +32,16 @@ export default function Header() {
       transition={{ duration: 0.7, ease: [0.22, 1, 0.36, 1] }}
     >
       <div className="container nav">
-        <a className="logo" href={homeHref} aria-label="EasyPeeze Technologies">
+        <a className="logo logo--mark-only" href={homeHref} aria-label="EasyPeeze Technologies">
           <motion.img
             className="logo-mark"
             src={asset('logo-mark-96.webp')}
-            width="40"
-            height="40"
+            width="44"
+            height="44"
             alt=""
             whileHover={{ rotate: 8, scale: 1.08 }}
             transition={{ type: 'spring', stiffness: 300, damping: 16 }}
           />
-          <span className="logo-wordmark" aria-hidden="true">
-            <span className="logo-name">
-              <span className="logo-easy">Easy</span>
-              <span className="logo-peeze">Peeze</span>
-            </span>
-            <span className="logo-sub">Technologies</span>
-          </span>
         </a>
         <button
           className="nav-toggle"
