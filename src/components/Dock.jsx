@@ -78,7 +78,7 @@ export default function Dock() {
           href={BOOKING_URL}
           target="_blank"
           rel="noopener noreferrer"
-          aria-label="Book a free call"
+          aria-label="Book a call"
         >
           <CalendarIcon />
           <span>Book a call</span>
