@@ -382,7 +382,9 @@ main {
   }
 }
 
-/* First-paint entrances: pure CSS so they run from the prerendered HTML */
+/* First-paint entrances: rest state is VISIBLE so FCP works even when the tab
+   is backgrounded (DevTools Lighthouse pauses CSS animations; `backwards` would
+   leave header/hero stuck off-screen → NO_FCP). Play motion only after hydrate. */
 .hero-word {
   display: inline-block;
   overflow: hidden;
@@ -395,27 +397,32 @@ main {
 .hero-word > span {
   display: inline-block;
   transform-origin: 50% 100%;
-  animation: hero-word 0.72s cubic-bezier(0.19, 1, 0.22, 1) backwards;
+}
+html.app-hydrated .hero-word > span {
+  animation: hero-word 0.72s cubic-bezier(0.19, 1, 0.22, 1) both;
   animation-delay: calc(var(--i, 0) * 70ms);
 }
 @keyframes hero-word {
   from { transform: translateY(105%) rotateX(55deg); }
 }
 .hero-in {
-  animation: hero-in 0.7s cubic-bezier(0.16, 1, 0.3, 1) backwards;
+  animation-delay: var(--d, 0ms);
+}
+html.app-hydrated .hero-in {
+  animation: hero-in 0.7s cubic-bezier(0.16, 1, 0.3, 1) both;
   animation-delay: var(--d, 0ms);
 }
 @keyframes hero-in {
   from { transform: translateY(28px); }
 }
-.site-header {
-  animation: header-in 0.6s cubic-bezier(0.22, 1, 0.36, 1) backwards;
+html.app-hydrated .site-header {
+  animation: header-in 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
 }
 @keyframes header-in {
   from { transform: translateY(-100%); }
 }
-.hero-stage .ai-terminal {
-  animation: hero-in 0.9s cubic-bezier(0.16, 1, 0.3, 1) 200ms backwards;
+html.app-hydrated .hero-stage .ai-terminal {
+  animation: hero-in 0.9s cubic-bezier(0.16, 1, 0.3, 1) 200ms both;
 }
 /* Hero decor is sized/placed in viewport units, not hero %, so a text reflow
    (late web font, wrapping) never moves these large layers (CLS). */
@@ -493,24 +500,24 @@ main {
   .ai-terminal .dot, .term-cursor, .work-card-cta, .cta-band { animation: none; }
 }
 
-.first-load .page-hero:not(.service-hero) .container > *,
-.first-load .service-hero-copy > *,
-.first-load .service-hero-visual {
-  animation: hero-in 0.7s cubic-bezier(0.16, 1, 0.3, 1) backwards;
+html.app-hydrated.first-load .page-hero:not(.service-hero) .container > *,
+html.app-hydrated.first-load .service-hero-copy > *,
+html.app-hydrated.first-load .service-hero-visual {
+  animation: hero-in 0.7s cubic-bezier(0.16, 1, 0.3, 1) both;
 }
-.first-load .page-hero .container > :nth-child(2),
-.first-load .service-hero-copy > :nth-child(2) { animation-delay: 70ms; }
-.first-load .page-hero .container > :nth-child(3),
-.first-load .service-hero-copy > :nth-child(3) { animation-delay: 140ms; }
-.first-load .page-hero .container > :nth-child(n + 4),
-.first-load .service-hero-copy > :nth-child(n + 4) { animation-delay: 210ms; }
-.first-load .service-hero-visual { animation-delay: 150ms; }
+html.app-hydrated.first-load .page-hero .container > :nth-child(2),
+html.app-hydrated.first-load .service-hero-copy > :nth-child(2) { animation-delay: 70ms; }
+html.app-hydrated.first-load .page-hero .container > :nth-child(3),
+html.app-hydrated.first-load .service-hero-copy > :nth-child(3) { animation-delay: 140ms; }
+html.app-hydrated.first-load .page-hero .container > :nth-child(n + 4),
+html.app-hydrated.first-load .service-hero-copy > :nth-child(n + 4) { animation-delay: 210ms; }
+html.app-hydrated.first-load .service-hero-visual { animation-delay: 150ms; }
 @media (prefers-reduced-motion: reduce) {
-  .hero-word > span,
-  .hero-in,
-  .site-header,
-  .hero-stage .ai-terminal,
-  .first-load .page-hero .container > *,
-  .first-load .service-hero-copy > *,
-  .first-load .service-hero-visual { animation: none; }
+  html.app-hydrated .hero-word > span,
+  html.app-hydrated .hero-in,
+  html.app-hydrated .site-header,
+  html.app-hydrated .hero-stage .ai-terminal,
+  html.app-hydrated.first-load .page-hero .container > *,
+  html.app-hydrated.first-load .service-hero-copy > *,
+  html.app-hydrated.first-load .service-hero-visual { animation: none; }
 }
