@@ -37,6 +37,11 @@
     <link rel="preload" href="/fonts/syne.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/fonts/figtree.woff2" as="font" type="font/woff2" crossorigin />
     <style>
+      /* FCP lock: fold must paint even if JS/animations stall (DevTools Lighthouse). */
+      .site-header, .hero-copy, .hero-title, .hero-sub, .hero-cta, .hero-word > span {
+        opacity: 1 !important; visibility: visible !important; filter: none !important;
+      }
+      .hero-word > span, .site-header { transform: none !important; animation: none !important; }
       html.first-load:not(.app-hydrated) #root [style*="opacity:0"]:not([aria-hidden="true"]):not([aria-hidden="true"] *),
       [data-keep-visible] { opacity: 1 !important; transform: none !important; filter: none !important; }
       @font-face { font-family: 'Syne Fallback'; src: local('Arial'), local('ArialMT'), local('Roboto'); ascent-override: 93.933%; descent-override: 27.926%; line-gap-override: 0%; size-adjust: 98.4745%; }

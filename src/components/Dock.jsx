@@ -44,9 +44,8 @@ export default function Dock() {
         '--dock-vv-pad': `${pad}px`,
         '--dock-vv-right': `${rightPad}px`,
       }}
-      initial={{ opacity: 0, y: 16, scale: 0.92 }}
+      initial={false}
       animate={{ opacity: 1, y: 0, scale: 1 }}
-      transition={{ delay: 0.35, type: 'spring', stiffness: 280, damping: 18 }}
     >
       <AnimatePresence>
         {showTop && (
