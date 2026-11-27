@@ -32,6 +32,8 @@ export function orgGraph(pageUrl, title, desc) {
         areaServed: 'IN',
         sameAs: [
           ...SOCIALS.map((s) => s.href),
+          'https://easypeeze.com/',
+          'https://kharchlog.com/',
           'https://github.com/Ahmedhussainpvtt/easypeezetech',
         ],
       },

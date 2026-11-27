@@ -1,6 +1,46 @@
 User-agent: *
 Allow: /
 Disallow: /pay/
-Disallow: /khsynloyrebnsbyo/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /pay/
+
+User-agent: Googlebot
+Allow: /
+Disallow: /pay/
+
+User-agent: GPTBot
+Allow: /
+Disallow: /pay/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /pay/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /pay/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /pay/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /pay/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /pay/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /pay/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /pay/
 
 Sitemap: https://easypeezetech.com/sitemap.xml
+# LLMs: https://easypeezetech.com/llms.txt

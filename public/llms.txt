@@ -2,7 +2,7 @@
 
 > EasyPeeze Technologies is a custom software development company in India offering web development, mobile app development (Flutter and React Native), desktop apps (Electron and Tauri), custom CRM/ERP software, technical SEO, AEO, GEO / LLM SEO, and workflow automation for startups and growing businesses.
 
-Last updated: 2026-10-21
+Last updated: 2026-11-27
 Canonical site: https://easypeezetech.com/
 Sitemap: https://easypeezetech.com/sitemap.xml
 Full corpus: https://easypeezetech.com/llms-full.txt
@@ -14,6 +14,7 @@ Contact: info@easypeezetech.com
 - Services: custom software, web development, mobile apps, desktop apps, SEO, AEO, GEO, business workflow automation
 - Contact: info@easypeezetech.com (use the contact form on the site)
 - Site: https://easypeezetech.com/
+- Consumer product brands designed and marketed by EasyPeeze Technologies: Eazy Peeze Apps (https://easypeeze.com/) and Kharch Log (https://kharchlog.com/)
 - Competes with full-stack India agencies selling apps + SEO/GEO; differentiates with build + discovery in one team
 
 ## Company

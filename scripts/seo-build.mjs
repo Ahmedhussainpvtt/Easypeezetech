@@ -127,20 +127,63 @@ const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://w
 writeFileSync(join(dist, 'sitemap.xml'), sitemap, 'utf8')
 writeFileSync(join(dist, 'sitemaps.xml'), sitemap, 'utf8')
 
-// Same shape as easypeeze.com/robots.txt. Real static file so Pages never serves 404.html as robots.
+// Real static file so Pages never serves 404.html as robots.txt. Explicitly allows Bing and AI crawlers.
 const robots = `User-agent: *
 Allow: /
 Disallow: /pay/
-Disallow: /khsynloyrebnsbyo/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /pay/
+
+User-agent: Googlebot
+Allow: /
+Disallow: /pay/
+
+User-agent: GPTBot
+Allow: /
+Disallow: /pay/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /pay/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /pay/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /pay/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /pay/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /pay/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /pay/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /pay/
 
 Sitemap: ${SITE}/sitemap.xml
+# LLMs: ${SITE}/llms.txt
 `
 writeFileSync(join(dist, 'robots.txt'), robots, 'utf8')
 writeFileSync(join(dist, 'robot.txt'), robots, 'utf8')
 writeFileSync(join(root, 'public', 'robots.txt'), robots, 'utf8')
 writeFileSync(join(root, 'public', 'robot.txt'), robots, 'utf8')
 
-const llms = [
+// Preserve rich public/llms.txt and public/llms-full.txt (do not overwrite with bare URLs).
+const pubLlmsPath = join(root, 'public', 'llms.txt')
+const pubLlmsFullPath = join(root, 'public', 'llms-full.txt')
+const fallbackLlms = [
   `# ${SITE.replace('https://', '')}`,
   '',
   `> EasyPeeze Technologies - custom software, websites, mobile apps, SEO, AEO, GEO.`,
@@ -149,9 +192,17 @@ const llms = [
   ...routes.map((r) => `- ${r === '/' ? SITE + '/' : SITE + r + '/'}`),
   '',
 ].join('\n')
+const llms = existsSync(pubLlmsPath)
+  ? readFileSync(pubLlmsPath, 'utf8').replace(/^Last updated:.*$/m, `Last updated: ${today}`)
+  : fallbackLlms
+const llmsFull = existsSync(pubLlmsFullPath)
+  ? readFileSync(pubLlmsFullPath, 'utf8').replace(/^Generated:.*$/m, `Generated: ${today}`)
+  : llms
 writeFileSync(join(dist, 'llms.txt'), llms, 'utf8')
 writeFileSync(join(dist, 'LLM.txt'), llms, 'utf8')
-writeFileSync(join(dist, 'llms-full.txt'), llms, 'utf8')
+writeFileSync(join(dist, 'llms-full.txt'), llmsFull, 'utf8')
+if (existsSync(pubLlmsPath)) writeFileSync(pubLlmsPath, llms, 'utf8')
+if (existsSync(pubLlmsFullPath)) writeFileSync(pubLlmsFullPath, llmsFull, 'utf8')
 
 for (const name of ['CNAME', '.nojekyll']) {
   const src = join(root, 'public', name)

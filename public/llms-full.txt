@@ -1,6 +1,6 @@
 # EasyPeeze Technologies - llms-full.txt
 
-Generated: 2026-10-21
+Generated: 2026-11-27
 Source: https://easypeezetech.com/
 Index: https://easypeezetech.com/llms.txt
 
@@ -12,6 +12,7 @@ Custom software, web, mobile, desktop, SEO/AEO/GEO and workflow automation from 
 - Services: custom software, web development, mobile apps, desktop apps, SEO, AEO, GEO, business workflow automation
 - Contact: info@easypeezetech.com (use the contact form on the site)
 - Site: https://easypeezetech.com/
+- Consumer product brands designed and marketed by EasyPeeze Technologies: Eazy Peeze Apps (https://easypeeze.com/) and Kharch Log (https://kharchlog.com/)
 - Competes with full-stack India agencies selling apps + SEO/GEO; differentiates with build + discovery in one team
 
 ## Company
