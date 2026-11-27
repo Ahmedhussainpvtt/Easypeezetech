@@ -9,7 +9,7 @@ export default {
       "qs": [
         [
           "How much does website development cost in India?",
-          "Book a call for pricing. Custom web apps and e-commerce cost more than a focused multi-page site."
+          "Focused 5 to 12 page business websites in India typically start around INR 25,000 to INR 75,000, while custom Next.js/React web apps or e-commerce stores range from INR 1.5 lakh upward depending on integrations, dashboards, and timelines. EasyPeeze Technologies shares a fixed-scope written quote after a short discovery call."
         ],
         [
           "What is included in a website development package?",
@@ -17,7 +17,7 @@ export default {
         ],
         [
           "How long does a business website take?",
-          "Many 5 to 12 page sites finish in 2 to 6 weeks once content and approvals are ready."
+          "Many 5 to 12 page sites finish in 2 to 6 weeks once content and approvals are ready. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you build SEO-friendly websites?",
@@ -41,11 +41,11 @@ export default {
         ],
         [
           "Will my website work on phones?",
-          "Yes. Mobile layout is part of every website development project."
+          "Yes. Mobile layout is part of every website development project. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you provide hosting?",
-          "We can recommend and set up hosting. You keep ownership of the domain and accounts."
+          "We can recommend and set up hosting. You keep ownership of the domain and accounts. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What is the difference between a website and a landing page?",
@@ -64,15 +64,15 @@ export default {
       "qs": [
         [
           "What is web app development?",
-          "Building a browser product people log into: dashboards, portals, workflows and SaaS tools."
+          "Building a browser product people log into: dashboards, portals, workflows and SaaS tools. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "How much does web app development cost in India?",
-          "Book a call for pricing. Multi-role products and integrations raise the quote."
+          "Pricing is fixed-scope by milestone based on pages, integrations, and timeline - share your brief on easypeezetech.com/contact/ for a written estimate within 24 hours. Multi-role products and integrations raise the quote."
         ],
         [
           "How long does a web app MVP take?",
-          "Many focused first versions land in 2 to 6 weeks when the main user journey is clear."
+          "Many focused first versions land in 2 to 6 weeks when the main user journey is clear. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Website vs web app: which do I need?",
@@ -84,15 +84,15 @@ export default {
         ],
         [
           "Will I own the web app code?",
-          "Yes. Client projects include IP handover for the work we create for you."
+          "Yes. Client projects include IP handover for the work we create for you. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Can you connect my web app to WhatsApp or payments?",
-          "Yes, when those integrations are in scope. We list them in the written quote."
+          "Yes, when those integrations are in scope. We list them in the written quote. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Do you provide ongoing web app maintenance?",
-          "Yes, via a retainer or phased updates after launch."
+          "Yes, via a retainer or phased updates after launch. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "What stack do you use for web apps?",
@@ -111,19 +111,19 @@ export default {
       "qs": [
         [
           "How much does mobile app development cost in India?",
-          "Book a call for pricing. Payments, maps, chat and multi-role features increase cost."
+          "Cross-platform Flutter or React Native MVPs for Android and iOS typically start around INR 2 lakh to INR 6 lakh depending on backend APIs, payments, and real-time features. EasyPeeze Technologies provides a transparent milestone breakdown before coding begins."
         ],
         [
           "How long does mobile app development take?",
-          "A focused first version often takes about 8 to 12 weeks."
+          "A focused first version often takes about 8 to 12 weeks. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Android first or iPhone first?",
-          "Many India launches start on Android. We plan one or both stores during discovery."
+          "Many India launches start on Android. We plan one or both stores during discovery. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Do you publish to Google Play and the App Store?",
-          "Yes. Store listing support can be included in the project scope."
+          "Yes. Store listing support can be included in the project scope. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "What is included in a first mobile app?",
@@ -131,27 +131,27 @@ export default {
         ],
         [
           "Can you rebuild my app?",
-          "Yes, if the brief is clear. We start with what to keep, what to cut, and a realistic timeline."
+          "Yes, if the brief is clear. We start with what to keep, what to cut, and a realistic timeline. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Do you build apps for internal staff only?",
-          "Yes. Internal mobile tools for field teams are a common brief."
+          "Yes. Internal mobile tools for field teams are a common brief. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Will push notifications be included?",
-          "When scoped. Notifications, payments and maps are priced as features, not surprises."
+          "When scoped. Notifications, payments and maps are priced as features, not surprises. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "What happens after app launch?",
-          "We recommend a support window or retainer for fixes and small improvements from real users."
+          "We recommend a support window or retainer for fixes and small improvements from real users. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Can one app serve customers and admins?",
-          "Yes, with different roles. Multi-role apps take longer than single-role first versions."
+          "Yes, with different roles. Multi-role apps take longer than single-role first versions. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Do you sign NDAs?",
-          "Yes, when needed before detailed product discussions."
+          "Yes, when needed before detailed product discussions. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "How do I hire a mobile app development company in India?",
@@ -170,7 +170,7 @@ export default {
         ],
         [
           "How much does custom software development cost in India?",
-          "Book a call for pricing. Price follows roles, workflows, integrations and reporting."
+          "Custom software and CRM/ERP builds in India generally start around INR 2 lakh to INR 5 lakh for an MVP and scale based on user roles, integrations, and workflows. EasyPeeze Technologies scopes projects into clear milestones with full source code and IP handover."
         ],
         [
           "Custom software vs ready-made SaaS?",
@@ -178,27 +178,27 @@ export default {
         ],
         [
           "Who owns custom software IP?",
-          "You should. Our contracts include handover of the work created for you."
+          "You should. Our contracts include handover of the work created for you. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "How long does custom software take?",
-          "Focused tools can ship in weeks. Multi-department systems take months and are phased."
+          "Focused tools can ship in weeks. Multi-department systems take months and are phased. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Can you replace Excel and WhatsApp chaos?",
-          "Yes. That is a common custom software brief: one system staff actually open."
+          "Yes. That is a common custom software brief: one system staff actually open. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Do you build ERP software?",
-          "We build focused ERP-style modules when a full mega-suite is too heavy or too expensive."
+          "We build focused ERP-style modules when a full mega-suite is too heavy or too expensive. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "Do you build CRM software?",
-          "Yes, custom CRM-style tools when sales and follow-ups do not fit a generic CRM."
+          "Yes, custom CRM-style tools when sales and follow-ups do not fit a generic CRM. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "Fixed price or dedicated team?",
-          "Fixed or phased quotes for clear scope. Dedicated pods for ongoing product work."
+          "Fixed or phased quotes for clear scope. Dedicated pods for ongoing product work. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "How do I choose a software development company in India?",
@@ -206,11 +206,11 @@ export default {
         ],
         [
           "Will you train my team?",
-          "Handover includes walkthroughs and docs. Deeper training can be scoped."
+          "Handover includes walkthroughs and docs. Deeper training can be scoped. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Can custom software integrate with my current tools?",
-          "Yes, when APIs or exports exist. Integrations are listed in the quote."
+          "Yes, when APIs or exports exist. Integrations are listed in the quote. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -225,7 +225,7 @@ export default {
         ],
         [
           "How much is an SEO retainer in India?",
-          "Book a call for pricing on SEO and visibility retainers."
+          "Technical SEO, AEO, and GEO retainers in India are scoped around site size, content velocity, and competition, covering schema markup, llms.txt, programmatic topic hubs, Core Web Vitals, and Bing/Google indexing. Contact EasyPeeze Technologies for a fixed monthly or one-time audit quote."
         ],
         [
           "What is AEO?",
@@ -233,39 +233,39 @@ export default {
         ],
         [
           "What is GEO?",
-          "Generative engine optimization: making your brand easy for AI assistants to cite."
+          "Generative engine optimization: making your brand easy for AI assistants to cite. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "Do you offer technical SEO?",
-          "Yes: speed, indexation, sitemap, schema and crawl issues."
+          "Yes: speed, indexation, sitemap, schema and crawl issues. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "Is SEO only for big brands?",
-          "No. Clear service pages and steady content help small India businesses too."
+          "No. Clear service pages and steady content help small India businesses too. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "How long until SEO results?",
-          "Technical fixes can help sooner. Content and authority usually take months of consistent work."
+          "Technical fixes can help sooner. Content and authority usually take months of consistent work. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "Do you do local SEO?",
-          "Yes, including alignment with Google Business Profile where relevant."
+          "Yes, including alignment with Google Business Profile where relevant. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "Can SEO help ChatGPT mention my business?",
-          "GEO-style pages, FAQs and proof help AI systems find accurate facts about you."
+          "GEO-style pages, FAQs and proof help AI systems find accurate facts about you. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "Do you write SEO content?",
-          "We can plan clusters and write service or FAQ pages as part of retainers or projects."
+          "We can plan clusters and write service or FAQ pages as part of retainers or projects. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "Should SEO start before website launch?",
-          "Yes when possible. Building discoverability into the site beats bolting SEO on later."
+          "Yes when possible. Building discoverability into the site beats bolting SEO on later. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "What is LLM SEO?",
-          "Content and structure aimed at large language model answers, closely related to GEO."
+          "Content and structure aimed at large language model answers, closely related to GEO. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ]
       ]
     },
@@ -276,19 +276,19 @@ export default {
       "qs": [
         [
           "What is workflow automation?",
-          "Connecting tools so repetitive steps happen without copy-paste between forms, chat and sheets."
+          "Connecting tools so repetitive steps happen without copy-paste between forms, chat and sheets. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "How much does workflow automation cost?",
-          "Book a call for pricing. Cost depends on systems and rules."
+          "Business workflow and WhatsApp/CRM automation projects are priced by the number of connected tools and custom rules, with small-business automations often shipping in 1 to 3 weeks at a fixed project fee."
         ],
         [
           "What can be automated first?",
-          "Lead capture, follow-ups, reminders, approvals and CRM updates."
+          "Lead capture, follow-ups, reminders, approvals and CRM updates. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "Will automation replace my team?",
-          "No. It removes repetitive work so people focus on decisions and customers."
+          "No. It removes repetitive work so people focus on decisions and customers. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "Do you build custom AI chatbots?",
@@ -296,23 +296,23 @@ export default {
         ],
         [
           "Can you automate WhatsApp follow-ups?",
-          "Often yes, as part of a wider ops flow when tools and permissions allow."
+          "Often yes, as part of a wider ops flow when tools and permissions allow. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "How long does an automation project take?",
-          "Simple flows can ship in days or a few weeks. Multi-system setups take longer."
+          "Simple flows can ship in days or a few weeks. Multi-system setups take longer. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "Do I need new software to automate?",
-          "Not always. We often connect tools you already pay for."
+          "Not always. We often connect tools you already pay for. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "What is CRM automation?",
-          "Rules that move leads and tasks through your CRM without manual status chasing."
+          "Rules that move leads and tasks through your CRM without manual status chasing. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "Can automation break if an API changes?",
-          "Integrations need monitoring. We document owners and failure paths."
+          "Integrations need monitoring. We document owners and failure paths. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ]
       ]
     },
@@ -323,35 +323,35 @@ export default {
       "qs": [
         [
           "When do I need a desktop app?",
-          "Offline work, special devices, heavy local files, or locked-down office browsers."
+          "Offline work, special devices, heavy local files, or locked-down office browsers. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "How much does desktop app development cost?",
-          "Quotes follow scope. Desktop work is priced after discovery like other custom software."
+          "Quotes follow scope. Desktop work is priced after discovery like other custom software. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Windows and Mac?",
-          "We commonly target Windows first. Mac can be included when scoped."
+          "We commonly target Windows first. Mac can be included when scoped. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Can you turn my web app into a desktop app?",
-          "Often yes, packing it as installable software with updates."
+          "Often yes, packing it as installable software with updates. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Do desktop apps work offline?",
-          "They can. Offline-first design is a common reason to choose desktop."
+          "They can. Offline-first design is a common reason to choose desktop. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Do you provide installers and updates?",
-          "Yes, installers and update channels can be part of the delivery."
+          "Yes, installers and update channels can be part of the delivery. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Is desktop better than mobile for field staff?",
-          "Depends on the job. Phones win for on-the-go tasks. Desktops win for heavy local work."
+          "Depends on the job. Phones win for on-the-go tasks. Desktops win for heavy local work. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Who owns the desktop software?",
-          "You own the work created for you under contract."
+          "You own the work created for you under contract. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ]
       ]
     },
@@ -366,47 +366,47 @@ export default {
         ],
         [
           "What should be in a software development quote?",
-          "Scope, milestones, exclusions, timeline, price model, support window and ownership terms."
+          "Scope, milestones, exclusions, timeline, price model, support window and ownership terms. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Fixed price vs time and materials?",
-          "Fixed or phased for clear scope. Time and materials or a pod when requirements will evolve."
+          "Fixed or phased for clear scope. Time and materials or a pod when requirements will evolve. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What are red flags when hiring?",
-          "No discovery, vague estimates, no weekly demos, and refusal to put IP in your name."
+          "No discovery, vague estimates, no weekly demos, and refusal to put IP in your name. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Should code live in my repository?",
-          "Yes. Prefer your accounts from early in the project."
+          "Yes. Prefer your accounts from early in the project. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "How fast should an agency reply?",
-          "EasyPeeze Technologies aims to reply within 24 hours on business days for serious briefs."
+          "EasyPeeze Technologies aims to reply within 24 hours on business days for serious briefs. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do I need a detailed spec before contacting you?",
-          "No. A rough brief is enough to start. Discovery turns it into a clear plan."
+          "No. A rough brief is enough to start. Discovery turns it into a clear plan. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Can you work with my existing developer?",
-          "Yes. We can collaborate or take ownership of a defined module."
+          "Yes. We can collaborate or take ownership of a defined module. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you work with US, UK or GCC clients?",
-          "Yes. Remote delivery from India with overlap hours agreed up front."
+          "Yes. Remote delivery from India with overlap hours agreed up front. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What is a dedicated development team?",
-          "A pod focused on your product for ongoing sprints, useful after the first release."
+          "A pod focused on your product for ongoing sprints, useful after the first release. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "How do payments usually work?",
-          "Milestones tied to acceptance. Exact schedule is in the proposal."
+          "Milestones tied to acceptance. Exact schedule is in the proposal. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Will you sign an NDA?",
-          "Yes when needed."
+          "Yes when needed. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -417,35 +417,35 @@ export default {
       "qs": [
         [
           "What is a SaaS MVP?",
-          "The smallest online product that real users can pay for or meaningfully try."
+          "The smallest online product that real users can pay for or meaningfully try. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "How much does a SaaS MVP cost in India?",
-          "Book a call for pricing. Cost depends on roles and billing needs."
+          "Pricing is fixed-scope by milestone based on pages, integrations, and timeline - share your brief on easypeezetech.com/contact/ for a written estimate within 24 hours. Cost depends on roles and billing needs."
         ],
         [
           "How long does a SaaS MVP take?",
-          "Many focused first versions take weeks to a few months, not a year of theatre."
+          "Many focused first versions take weeks to a few months, not a year of theatre. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What should an MVP include?",
-          "One core journey, accounts, basic admin, and tracking. Cut nice-to-haves."
+          "One core journey, accounts, basic admin, and tracking. Cut nice-to-haves. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you handle subscriptions and payments?",
-          "When scoped. Billing features are priced explicitly."
+          "When scoped. Billing features are priced explicitly. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Multi-tenant SaaS from day one?",
-          "Only if needed. Many MVPs start simpler and harden tenancy later."
+          "Only if needed. Many MVPs start simpler and harden tenancy later. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Who owns the SaaS codebase?",
-          "You do for client-funded builds."
+          "You do for client-funded builds. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Can you help after MVP launch?",
-          "Yes, with retainers for features, SEO and reliability."
+          "Yes, with retainers for features, SEO and reliability. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -456,35 +456,35 @@ export default {
       "qs": [
         [
           "Do you build custom CRM software?",
-          "Yes, when sales stages and follow-ups need a tailored system."
+          "Yes, when sales stages and follow-ups need a tailored system. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "Do you build custom ERP modules?",
-          "Yes, focused modules for inventory, orders or ops when full ERP is overkill."
+          "Yes, focused modules for inventory, orders or ops when full ERP is overkill. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "CRM vs spreadsheet?",
-          "A CRM tracks owners, stages and reminders. Spreadsheets hide follow-ups."
+          "A CRM tracks owners, stages and reminders. Spreadsheets hide follow-ups. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "Can you migrate data from Excel?",
-          "Often yes. Migration is scoped after we see the sheets."
+          "Often yes. Migration is scoped after we see the sheets. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "How long does a CRM build take?",
-          "A focused sales CRM can land in weeks. Deep ERP-style systems are phased."
+          "A focused sales CRM can land in weeks. Deep ERP-style systems are phased. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "Will staff actually use it?",
-          "We design around real roles and demos so the tool matches daily work."
+          "We design around real roles and demos so the tool matches daily work. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "Can CRM connect to email and WhatsApp?",
-          "When integrations are available and in scope."
+          "When integrations are available and in scope. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "What about reporting?",
-          "Dashboards and exports are common deliverables."
+          "Dashboards and exports are common deliverables. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ]
       ]
     },
@@ -499,31 +499,31 @@ export default {
         ],
         [
           "What slows projects down?",
-          "Slow approvals, missing content, unclear owners and mid-project scope changes."
+          "Slow approvals, missing content, unclear owners and mid-project scope changes. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you work in sprints?",
-          "Yes. Weekly demos keep progress visible."
+          "Yes. Weekly demos keep progress visible. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What is a milestone?",
-          "A paid checkpoint with clear acceptance criteria."
+          "A paid checkpoint with clear acceptance criteria. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Can you rush a launch?",
-          "Sometimes. Rush fees and cut scope are discussed honestly."
+          "Sometimes. Rush fees and cut scope are discussed honestly. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "How do you handle delays?",
-          "We surface risks early and replan milestones in writing."
+          "We surface risks early and replan milestones in writing. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Is discovery part of the timeline?",
-          "Yes. Short discovery prevents expensive rebuilds."
+          "Yes. Short discovery prevents expensive rebuilds. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "When does QA happen?",
-          "Throughout builds, not only on the last day."
+          "Throughout builds, not only on the last day. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ]
       ]
     },
@@ -534,35 +534,35 @@ export default {
       "qs": [
         [
           "Who owns the source code?",
-          "For client projects, you own the work we create for you under contract."
+          "For client projects, you own the work we create for you under contract. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "When do I get repository access?",
-          "Prefer your accounts early. Final handover is always documented."
+          "Prefer your accounts early. Final handover is always documented. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What is included in handover?",
-          "Source, key assets, environments notes and how to run the product."
+          "Source, key assets, environments notes and how to run the product. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you keep a license over my product?",
-          "No hostage licensing for client-funded work."
+          "No hostage licensing for client-funded work. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What about third-party libraries?",
-          "Open-source and vendor licenses are respected and noted."
+          "Open-source and vendor licenses are respected and noted. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Can another vendor take over later?",
-          "Yes, if handover docs and access are complete. That is intentional."
+          "Yes, if handover docs and access are complete. That is intentional. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Who owns the UI designs?",
-          "Designs created for you are included in handover unless stated otherwise."
+          "Designs created for you are included in handover unless stated otherwise. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What about domain and hosting accounts?",
-          "They should stay in your name."
+          "They should stay in your name. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -577,31 +577,31 @@ export default {
         ],
         [
           "How do startups budget software in India?",
-          "Share a range early. We map must-haves to a phased plan."
+          "Share a range early. We map must-haves to a phased plan. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you work with early-stage founders?",
-          "Yes, when the brief is serious and scope can be kept honest."
+          "Yes, when the brief is serious and scope can be kept honest. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Can you help with investor demos?",
-          "We can prioritize a demo-ready journey when that is the goal."
+          "We can prioritize a demo-ready journey when that is the goal. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Should startups buy templates?",
-          "Templates can help marketing sites. Products usually need custom work."
+          "Templates can help marketing sites. Products usually need custom work. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you offer equity partnerships?",
-          "We are a services studio. Commercial terms are cash-based unless separately agreed."
+          "We are a services studio. Commercial terms are cash-based unless separately agreed. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "How involved must the founder be?",
-          "Weekly decisions matter. We do not disappear for months."
+          "Weekly decisions matter. We do not disappear for months. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Can you scale the team later?",
-          "Pods can grow after the first release if the product needs it."
+          "Pods can grow after the first release if the product needs it. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -612,35 +612,35 @@ export default {
       "qs": [
         [
           "Do you build e-commerce websites?",
-          "Yes, when catalogue, cart or enquiry flows are in scope."
+          "Yes, when catalogue, cart or enquiry flows are in scope. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Shopify vs custom store?",
-          "Shopify suits many stores. Custom fits unusual workflows or deep integrations."
+          "Shopify suits many stores. Custom fits unusual workflows or deep integrations. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "How much does an e-commerce site cost in India?",
-          "Ranges vary widely. We quote after seeing catalogue size and payment needs."
+          "Ranges vary widely. We quote after seeing catalogue size and payment needs. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Can you connect UPI and Indian gateways?",
-          "Yes when those gateways are part of the brief."
+          "Yes when those gateways are part of the brief. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you handle product uploads?",
-          "Bulk upload support can be scoped. Content ownership stays with you."
+          "Bulk upload support can be scoped. Content ownership stays with you. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Is SEO important for e-commerce?",
-          "Yes. Product and category pages need clear structure to get found."
+          "Yes. Product and category pages need clear structure to get found. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "Mobile shopping experience?",
-          "Phone layout is mandatory for modern stores."
+          "Phone layout is mandatory for modern stores. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Inventory and orders admin?",
-          "Admin tools are common deliverables for custom stores."
+          "Admin tools are common deliverables for custom stores. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -651,11 +651,11 @@ export default {
       "qs": [
         [
           "Do you offer post-launch support?",
-          "Yes. Support windows and monthly retainers are available."
+          "Yes. Support windows and monthly retainers are available. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What is a software maintenance retainer?",
-          "A monthly engagement for fixes, small improvements and monitoring."
+          "A monthly engagement for fixes, small improvements and monitoring. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "SEO retainer vs product retainer?",
@@ -663,23 +663,23 @@ export default {
         ],
         [
           "How fast are bug fixes?",
-          "Priority depends on severity and the support plan you choose."
+          "Priority depends on severity and the support plan you choose. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Can you take over someone else's codebase?",
-          "Sometimes, after an audit. Legacy takeovers are quoted separately."
+          "Sometimes, after an audit. Legacy takeovers are quoted separately. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do retainers include new features?",
-          "Small improvements yes. Large features are scoped as projects."
+          "Small improvements yes. Large features are scoped as projects. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What if we pause the retainer?",
-          "We document handover so you are not stuck."
+          "We document handover so you are not stuck. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Is hosting monitoring included?",
-          "It can be. Monitoring is listed in the retainer scope."
+          "It can be. Monitoring is listed in the retainer scope. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -690,11 +690,11 @@ export default {
       "qs": [
         [
           "How do you handle security?",
-          "Role-based access, least privilege, secure hosting practices and careful handling of secrets."
+          "Role-based access, least privilege, secure hosting practices and careful handling of secrets. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you store passwords safely?",
-          "Modern hashing practices are standard for apps with accounts."
+          "Modern hashing practices are standard for apps with accounts. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Are you GDPR ready?",
@@ -702,23 +702,23 @@ export default {
         ],
         [
           "Do you do penetration testing?",
-          "We can coordinate or leave room in the plan for third-party tests."
+          "We can coordinate or leave room in the plan for third-party tests. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Who accesses production?",
-          "Access is limited and documented."
+          "Access is limited and documented. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Backups?",
-          "Backup strategy is part of launch planning for serious products."
+          "Backup strategy is part of launch planning for serious products. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Data residency?",
-          "We can target regions you require when cloud choices allow."
+          "We can target regions you require when cloud choices allow. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What about security for internal tools?",
-          "Internal does not mean careless. Roles and audit trails still matter."
+          "Internal does not mean careless. Roles and audit trails still matter. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -729,35 +729,35 @@ export default {
       "qs": [
         [
           "How often do we meet?",
-          "Weekly demos are the default. More calls when a milestone needs decisions."
+          "Weekly demos are the default. More calls when a milestone needs decisions. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What is a weekly demo?",
-          "A working build walkthrough, not a slide deck."
+          "A working build walkthrough, not a slide deck. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Which tools do you use for updates?",
-          "Email plus a shared task board. Chat tools can be added if you prefer."
+          "Email plus a shared task board. Chat tools can be added if you prefer. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Who is my point of contact?",
-          "A build-side contact, not a ticket black hole."
+          "A build-side contact, not a ticket black hole. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "How are change requests handled?",
-          "In writing: impact on scope, time and cost before work starts."
+          "In writing: impact on scope, time and cost before work starts. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What language do you work in?",
-          "English for project communication. Simple language, not jargon soup."
+          "English for project communication. Simple language, not jargon soup. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Time zone overlap?",
-          "Agreed during kickoff for India and international clients."
+          "Agreed during kickoff for India and international clients. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What do you need from us each week?",
-          "Decisions, content and timely feedback."
+          "Decisions, content and timely feedback. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -768,43 +768,43 @@ export default {
       "qs": [
         [
           "Why show starting prices?",
-          "Floors help buyers plan. Exact quotes still need scope."
+          "Floors help buyers plan. Exact quotes still need scope. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Are your prices fixed forever?",
-          "No. Starting prices guide budgeting. Final numbers follow discovery."
+          "No. Starting prices guide budgeting. Final numbers follow discovery. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What increases software cost?",
-          "Extra roles, integrations, compliance, bilingual content and unclear requirements."
+          "Extra roles, integrations, compliance, bilingual content and unclear requirements. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you charge for discovery?",
-          "Light fit checks are free. Deep discovery may be a paid sprint for large jobs."
+          "Light fit checks are free. Deep discovery may be a paid sprint for large jobs. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "GST on invoices?",
-          "Invoices follow applicable tax rules for your engagement."
+          "Invoices follow applicable tax rules for your engagement. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Can I get a ballpark on a call?",
-          "Yes, after we hear goals and constraints."
+          "Yes, after we hear goals and constraints. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Cheapest quote vs best quote?",
-          "Compare inclusions, ownership and demos, not only the bottom line."
+          "Compare inclusions, ownership and demos, not only the bottom line. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you match competitor prices?",
-          "We price for delivery quality and clarity, not a race to the bottom."
+          "We price for delivery quality and clarity, not a race to the bottom. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Where do I see EasyPeeze Technologies pricing?",
-          "On the pricing page, with service floors and a path to a scoped quote."
+          "On the pricing page, with service floors and a path to a scoped quote. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Can students get discounts?",
-          "We focus on business clients. Educational work is case by case."
+          "We focus on business clients. Educational work is case by case. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -815,43 +815,43 @@ export default {
       "qs": [
         [
           "Do you work with service businesses?",
-          "Yes. Enquiry-led websites and follow-up automation are common."
+          "Yes. Enquiry-led websites and follow-up automation are common. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you work with SaaS startups?",
-          "Yes, from first web or mobile slice through launch SEO."
+          "Yes, from first web or mobile slice through launch SEO. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Logistics and field teams?",
-          "Yes: tracking portals, staff apps and offline helpers."
+          "Yes: tracking portals, staff apps and offline helpers. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Healthcare clinics?",
-          "Appointment-facing sites and careful data handling with clear consent paths."
+          "Appointment-facing sites and careful data handling with clear consent paths. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Education and training?",
-          "Learning portals, admin panels and admission-oriented content structures."
+          "Learning portals, admin panels and admission-oriented content structures. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Manufacturing and B2B?",
-          "Catalogues, RFQ flows and ERP-adjacent tools."
+          "Catalogues, RFQ flows and ERP-adjacent tools. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Retail and D2C?",
-          "Catalogue experiences and performance landing pages."
+          "Catalogue experiences and performance landing pages. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Export and GCC brands?",
-          "India delivery with multi-market site needs."
+          "India delivery with multi-market site needs. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Real estate?",
-          "Project sites, lead capture and follow-up workflows."
+          "Project sites, lead capture and follow-up workflows. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Professional firms (CA, legal, consulting)?",
-          "Authority sites, service pages and lead forms."
+          "Authority sites, service pages and lead forms. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -862,35 +862,35 @@ export default {
       "qs": [
         [
           "How can my business show up in ChatGPT?",
-          "Publish clear, consistent, crawlable facts: services, FAQs, pricing guidance and proof."
+          "Publish clear, consistent, crawlable facts: services, FAQs, pricing guidance and proof. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "What is generative engine optimization?",
-          "GEO: structuring your brand so generative engines can cite you accurately."
+          "GEO: structuring your brand so generative engines can cite you accurately. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "Does blogging alone fix AI visibility?",
-          "Not if posts are thin. Entity-clear service and FAQ pages matter more."
+          "Not if posts are thin. Entity-clear service and FAQ pages matter more. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "Do you create llms.txt?",
-          "Yes. Our site publishes llms.txt to help AI crawlers."
+          "Yes. Our site publishes llms.txt to help AI crawlers. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "Is GEO different from SEO?",
-          "Related. SEO targets Google rankings. GEO targets assistant citations. We do both."
+          "Related. SEO targets Google rankings. GEO targets assistant citations. We do both. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "How fast can AI mentions appear?",
-          "Unpredictable. Consistency and clarity improve odds over time."
+          "Unpredictable. Consistency and clarity improve odds over time. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "Should FAQs be on my site?",
-          "Yes. FAQs help humans and machines answer precise questions."
+          "Yes. FAQs help humans and machines answer precise questions. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "Can fake testimonials help AI?",
-          "No. Invented proof hurts trust. We do not fabricate logos or quotes."
+          "No. Invented proof hurts trust. We do not fabricate logos or quotes. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ]
       ]
     },
@@ -901,35 +901,35 @@ export default {
       "qs": [
         [
           "How do I contact EasyPeeze Technologies?",
-          "Use the contact form on easypeezetech.com/contact/ or email info@easypeezetech.com."
+          "Use the contact form on easypeezetech.com/contact/ or email info@easypeezetech.com. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "How fast do you reply?",
-          "We aim to reply within 24 hours on business days for serious briefs."
+          "We aim to reply within 24 hours on business days for serious briefs. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What should I include in my message?",
-          "Goals, links, must-haves, timeline and budget range."
+          "Goals, links, must-haves, timeline and budget range. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you offer a free strategy call?",
-          "Yes. We discuss fit before you pay."
+          "Yes. We discuss fit before you pay. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you take emergency same-day builds?",
-          "Rarely. Quality needs a real plan. We will say if a rush is unrealistic."
+          "Rarely. Quality needs a real plan. We will say if a rush is unrealistic. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Can I WhatsApp you?",
-          "Start with the form or email so briefs are tracked. Chat can follow after kickoff."
+          "Start with the form or email so briefs are tracked. Chat can follow after kickoff. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Where are you based?",
-          "India-based delivery for India and international clients."
+          "India-based delivery for India and international clients. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What languages can we work in?",
-          "Project communication in English."
+          "Project communication in English. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -940,27 +940,27 @@ export default {
       "qs": [
         [
           "What does hire developers India usually mean?",
-          "Either a fixed project with an agency team, or a dedicated pod working only on your product."
+          "Either a fixed project with an agency team, or a dedicated pod working only on your product. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Is hiring freelancers safer?",
-          "Freelancers can work for small tasks. Products need process, QA and handover."
+          "Freelancers can work for small tasks. Products need process, QA and handover. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Does EasyPeeze Technologies provide dedicated developers?",
-          "We provide accountable pods, not anonymous body shopping."
+          "We provide accountable pods, not anonymous body shopping. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Senior vs junior developers?",
-          "We staff for the problem. Critical paths get experienced eyes."
+          "We staff for the problem. Critical paths get experienced eyes. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Can I interview the builders?",
-          "Yes for serious engagements."
+          "Yes for serious engagements. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Full-time equivalent meaning?",
-          "A measure of capacity. Ask what percent of each person's week is yours."
+          "A measure of capacity. Ask what percent of each person's week is yours. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -971,11 +971,11 @@ export default {
       "qs": [
         [
           "Do you build for both Android and iOS?",
-          "Yes. Many projects share one codebase approach to save time and budget."
+          "Yes. Many projects share one codebase approach to save time and budget. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Native vs cross-platform?",
-          "Cross-platform is the default for most business apps. Native is for special device needs."
+          "Cross-platform is the default for most business apps. Native is for special device needs. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Play Store rejection risks?",
@@ -983,15 +983,15 @@ export default {
         ],
         [
           "App Store developer account?",
-          "You should own the account. We guide setup."
+          "You should own the account. We guide setup. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Tablet support?",
-          "When scoped. Phones are the usual first target."
+          "When scoped. Phones are the usual first target. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Offline mobile apps?",
-          "Possible for field use cases when designed that way."
+          "Possible for field use cases when designed that way. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ]
       ]
     },
@@ -1002,11 +1002,11 @@ export default {
       "qs": [
         [
           "Do you do UI design only?",
-          "Design is part of build. Pure design-only work is rare; we prefer design that ships."
+          "Design is part of build. Pure design-only work is rare; we prefer design that ships. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Can you follow my brand kit?",
-          "Yes. Share logos, colours and fonts."
+          "Yes. Share logos, colours and fonts. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you use templates?",
@@ -1014,15 +1014,15 @@ export default {
         ],
         [
           "Accessibility?",
-          "We aim for clear contrast, readable type and usable forms."
+          "We aim for clear contrast, readable type and usable forms. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Animations on websites?",
-          "Motion with purpose. We avoid heavy effects that hurt speed."
+          "Motion with purpose. We avoid heavy effects that hurt speed. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Stock photos?",
-          "Prefer real product or workplace imagery when you have it."
+          "Prefer real product or workplace imagery when you have it. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -1033,27 +1033,27 @@ export default {
       "qs": [
         [
           "What is a lead generation website?",
-          "A site built to convert visitors into form fills, calls or chats."
+          "A site built to convert visitors into form fills, calls or chats. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What improves conversion rate?",
-          "Clear offers, proof, fast pages and simple forms."
+          "Clear offers, proof, fast pages and simple forms. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "How many form fields?",
-          "As few as needed. Extra fields kill completions."
+          "As few as needed. Extra fields kill completions. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Should pricing be public?",
-          "Floors help serious buyers. Exact quotes still need scope."
+          "Floors help serious buyers. Exact quotes still need scope. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Chat widgets?",
-          "Optional. Forms plus fast human reply often convert better."
+          "Optional. Forms plus fast human reply often convert better. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Thank-you pages?",
-          "Yes, for tracking and next-step clarity."
+          "Yes, for tracking and next-step clarity. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -1064,27 +1064,27 @@ export default {
       "qs": [
         [
           "What is API integration?",
-          "Connecting two systems so data moves without manual export."
+          "Connecting two systems so data moves without manual export. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "Which APIs can you integrate?",
-          "Common payment, CRM, form and messaging APIs when documented."
+          "Common payment, CRM, form and messaging APIs when documented. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "What if there is no API?",
-          "We look for exports, email parsers or staged processes. Honest limits apply."
+          "We look for exports, email parsers or staged processes. Honest limits apply. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "How are API keys stored?",
-          "In secure environment config, not in public code."
+          "In secure environment config, not in public code. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "Who monitors integrations?",
-          "Ownership is defined at handover. Retainers can include checks."
+          "Ownership is defined at handover. Retainers can include checks. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "Rate limits?",
-          "We design for vendor limits and retries where needed."
+          "We design for vendor limits and retries where needed. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ]
       ]
     },
@@ -1095,27 +1095,27 @@ export default {
       "qs": [
         [
           "Do you use agile?",
-          "Yes: short cycles, demos and a backlog you can see."
+          "Yes: short cycles, demos and a backlog you can see. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What is a sprint?",
-          "A time box of work ending in a reviewable build."
+          "A time box of work ending in a reviewable build. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do I need Jira?",
-          "Any shared board works. Tool choice is flexible."
+          "Any shared board works. Tool choice is flexible. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Definition of done?",
-          "Agreed acceptance checks before a milestone is marked complete."
+          "Agreed acceptance checks before a milestone is marked complete. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Can scope change mid-sprint?",
-          "Small swaps yes. Larger changes go through a written request."
+          "Small swaps yes. Larger changes go through a written request. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Documentation?",
-          "Enough to run and extend the product. Not a novel nobody reads."
+          "Enough to run and extend the product. Not a novel nobody reads. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -1126,27 +1126,27 @@ export default {
       "qs": [
         [
           "Is offshore software development safe?",
-          "It is when process, ownership and communication are clear."
+          "It is when process, ownership and communication are clear. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "How do you handle time zones?",
-          "Overlap hours are agreed at kickoff."
+          "Overlap hours are agreed at kickoff. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Will English be clear?",
-          "Yes. Plain English updates are standard."
+          "Yes. Plain English updates are standard. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Quality vs cost?",
-          "India delivery can be cost-effective without meaning disposable quality."
+          "India delivery can be cost-effective without meaning disposable quality. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Data security offshore?",
-          "Access controls and NDAs apply the same as domestic work."
+          "Access controls and NDAs apply the same as domestic work. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Can you join our standups?",
-          "Yes when the cadence fits both sides."
+          "Yes when the cadence fits both sides. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -1157,27 +1157,27 @@ export default {
       "qs": [
         [
           "Do you maintain websites after launch?",
-          "Yes, through support plans or retainers."
+          "Yes, through support plans or retainers. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What does website maintenance include?",
-          "Updates, small content edits, uptime checks and minor fixes as scoped."
+          "Updates, small content edits, uptime checks and minor fixes as scoped. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "How often should a site be updated?",
-          "Whenever offers change. Technical updates follow a schedule."
+          "Whenever offers change. Technical updates follow a schedule. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Broken forms?",
-          "Priority fixes under support agreements."
+          "Priority fixes under support agreements. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "SSL and domain renewals?",
-          "You own renewals. We can remind and guide."
+          "You own renewals. We can remind and guide. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Content updates pricing?",
-          "Small edits may sit in a retainer. Large rewrites are quoted."
+          "Small edits may sit in a retainer. Large rewrites are quoted. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -1188,27 +1188,27 @@ export default {
       "qs": [
         [
           "What is a PWA?",
-          "A website that can behave more like an app, sometimes installable on a phone."
+          "A website that can behave more like an app, sometimes installable on a phone. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "PWA vs mobile app?",
-          "PWAs avoid stores. Native or store apps win for deeper device features."
+          "PWAs avoid stores. Native or store apps win for deeper device features. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Do you build PWAs?",
-          "When the brief fits. We recommend honestly if a store app is better."
+          "When the brief fits. We recommend honestly if a store app is better. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Offline PWAs?",
-          "Limited offline is possible. True offline-first often needs a stronger approach."
+          "Limited offline is possible. True offline-first often needs a stronger approach. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Push on PWA?",
-          "Browser support varies. We explain limits up front."
+          "Browser support varies. We explain limits up front. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "SEO for PWAs?",
-          "Public content can still be crawlable when built correctly."
+          "Public content can still be crawlable when built correctly. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ]
       ]
     },
@@ -1219,27 +1219,27 @@ export default {
       "qs": [
         [
           "Do you build admin panels?",
-          "Yes. Most products need an admin side."
+          "Yes. Most products need an admin side. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What belongs in a dashboard?",
-          "The metrics and actions your team uses weekly, not every chart imaginable."
+          "The metrics and actions your team uses weekly, not every chart imaginable. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Role-based admin access?",
-          "Yes. Different staff see different data."
+          "Yes. Different staff see different data. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Export to Excel?",
-          "Common request. We include exports when scoped."
+          "Common request. We include exports when scoped. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Real-time dashboards?",
-          "Possible. Real-time costs more than daily snapshots."
+          "Possible. Real-time costs more than daily snapshots. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Mobile admin?",
-          "Responsive admin is standard. Dedicated admin apps are optional."
+          "Responsive admin is standard. Dedicated admin apps are optional. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ]
       ]
     },
@@ -1250,27 +1250,27 @@ export default {
       "qs": [
         [
           "Can you integrate Indian payment gateways?",
-          "Yes when the gateway and compliance needs are in scope."
+          "Yes when the gateway and compliance needs are in scope. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "UPI support?",
-          "Available through supported gateways."
+          "Available through supported gateways. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Who creates the merchant account?",
-          "You. We integrate once credentials exist."
+          "You. We integrate once credentials exist. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Subscriptions and recurring billing?",
-          "Possible for SaaS when scoped."
+          "Possible for SaaS when scoped. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Refunds and webhooks?",
-          "Part of a proper payments integration plan."
+          "Part of a proper payments integration plan. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "PCI concerns?",
-          "We use gateway-hosted flows so card data stays with the provider."
+          "We use gateway-hosted flows so card data stays with the provider. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -1281,27 +1281,27 @@ export default {
       "qs": [
         [
           "Which cloud do you use?",
-          "AWS, GCP or Azure based on your needs and budget."
+          "AWS, GCP or Azure based on your needs and budget. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Who owns the cloud account?",
-          "You should."
+          "You should. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "CI/CD meaning?",
-          "Automated checks and deploy pipelines so releases are repeatable."
+          "Automated checks and deploy pipelines so releases are repeatable. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Staging environment?",
-          "Yes for serious products. Staging mirrors production safely."
+          "Yes for serious products. Staging mirrors production safely. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Downtime during deploys?",
-          "We aim for low-drama releases. Plans depend on architecture."
+          "We aim for low-drama releases. Plans depend on architecture. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Cost optimization?",
-          "We avoid over-provisioning on day one."
+          "We avoid over-provisioning on day one. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -1312,27 +1312,27 @@ export default {
       "qs": [
         [
           "Do you provide UX research?",
-          "Lightweight research for SMB budgets: interviews, task flows and prototypes as needed."
+          "Lightweight research for SMB budgets: interviews, task flows and prototypes as needed. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Wireframes first?",
-          "Yes for non-trivial products."
+          "Yes for non-trivial products. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Design systems?",
-          "Simple component consistency matters more than a 200-page brand book."
+          "Simple component consistency matters more than a 200-page brand book. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "User testing?",
-          "We recommend testing critical flows before big launches."
+          "We recommend testing critical flows before big launches. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Dark mode?",
-          "Optional. Not required for every product."
+          "Optional. Not required for every product. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Copywriting in UX?",
-          "Button and empty-state copy is part of building usable software."
+          "Button and empty-state copy is part of building usable software. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -1343,27 +1343,27 @@ export default {
       "qs": [
         [
           "Do you test on real devices?",
-          "Yes for mobile and responsive checks."
+          "Yes for mobile and responsive checks. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Automated tests?",
-          "Added where they protect critical paths without slowing delivery."
+          "Added where they protect critical paths without slowing delivery. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Who writes test cases?",
-          "We cover critical acceptance paths. You confirm business rules."
+          "We cover critical acceptance paths. You confirm business rules. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Browser support?",
-          "Modern evergreen browsers unless you need legacy."
+          "Modern evergreen browsers unless you need legacy. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Performance testing?",
-          "For public sites and busy apps, speed checks are part of launch."
+          "For public sites and busy apps, speed checks are part of launch. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Bug warranty?",
-          "Support windows cover defects from our work as defined in the agreement."
+          "Support windows cover defects from our work as defined in the agreement. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -1374,27 +1374,27 @@ export default {
       "qs": [
         [
           "Can you migrate legacy software?",
-          "Often, after an audit of data and must-keep workflows."
+          "Often, after an audit of data and must-keep workflows. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Big bang vs phased migration?",
-          "Phased is usually safer."
+          "Phased is usually safer. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What about old data quality?",
-          "Cleanup is part of the plan. Garbage in stays garbage unless cleaned."
+          "Cleanup is part of the plan. Garbage in stays garbage unless cleaned. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Can users keep working during migration?",
-          "Parallel run strategies reduce risk."
+          "Parallel run strategies reduce risk. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Rewrite vs extend?",
-          "We recommend based on cost and risk, not ideology."
+          "We recommend based on cost and risk, not ideology. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Documentation for legacy systems?",
-          "We reverse-engineer enough to ship safely."
+          "We reverse-engineer enough to ship safely. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -1405,7 +1405,7 @@ export default {
       "qs": [
         [
           "How much does custom software cost in India?",
-          "Book a call for pricing. Price follows roles, workflows, integrations and reporting."
+          "Custom software and CRM/ERP builds in India generally start around INR 2 lakh to INR 5 lakh for an MVP and scale based on user roles, integrations, and workflows. EasyPeeze Technologies scopes projects into clear milestones with full source code and IP handover."
         ],
         [
           "Fixed price or monthly?",
@@ -1413,7 +1413,7 @@ export default {
         ],
         [
           "Who owns the software?",
-          "You do. Contracts include handover of the work we create for you."
+          "You do. Contracts include handover of the work we create for you. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What makes custom software expensive?",
@@ -1421,11 +1421,11 @@ export default {
         ],
         [
           "Can you phase custom software delivery?",
-          "Yes. Ship the highest-ROI workflow first, then expand."
+          "Yes. Ship the highest-ROI workflow first, then expand. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you quote after a free discovery call?",
-          "Yes. Serious briefs get a fit check and a path to a written quote."
+          "Yes. Serious briefs get a fit check and a path to a written quote. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -1436,27 +1436,27 @@ export default {
       "qs": [
         [
           "What is SEO?",
-          "SEO helps people find you on Google through better pages, speed and content."
+          "SEO helps people find you on Google through better pages, speed and content. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "What is AEO?",
-          "AEO helps your content show up as a short answer when search systems display direct answers."
+          "AEO helps your content show up as a short answer when search systems display direct answers. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "What is GEO?",
-          "GEO helps AI assistants like ChatGPT mention your brand when buyers ask questions."
+          "GEO helps AI assistants like ChatGPT mention your brand when buyers ask questions. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "Does EasyPeeze Technologies offer all three?",
-          "Yes. We treat SEO, AEO and GEO as one visibility practice tied to the product you ship."
+          "Yes. We treat SEO, AEO and GEO as one visibility practice tied to the product you ship. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "Is GEO the same as LLM SEO?",
-          "Closely related. Both focus on making your brand easy for AI systems to cite accurately."
+          "Closely related. Both focus on making your brand easy for AI systems to cite accurately. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "Where should I start?",
-          "Fix technical basics, publish clear service pages and FAQs, then expand content clusters."
+          "Fix technical basics, publish clear service pages and FAQs, then expand content clusters. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ]
       ]
     },
@@ -1467,11 +1467,11 @@ export default {
       "qs": [
         [
           "What is a website?",
-          "A website mostly informs and captures enquiries: home, services, about, contact."
+          "A website mostly informs and captures enquiries: home, services, about, contact. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "What is a web app?",
-          "A web app is a product people log into and use: dashboards, portals, workflows."
+          "A web app is a product people log into and use: dashboards, portals, workflows. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Which do I need?",
@@ -1479,7 +1479,7 @@ export default {
         ],
         [
           "Can a website become a web app later?",
-          "Often yes, if the first build was structured cleanly. We plan for that when useful."
+          "Often yes, if the first build was structured cleanly. We plan for that when useful. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Is a landing page a website?",
@@ -1494,15 +1494,15 @@ export default {
       "qs": [
         [
           "How long for a mobile app?",
-          "A focused first mobile app is often about 8 to 12 weeks."
+          "A focused first mobile app is often about 8 to 12 weeks. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "How long for a web app first version?",
-          "Many focused web apps land in about 2 to 6 weeks when the first user journey is clear."
+          "Many focused web apps land in about 2 to 6 weeks when the first user journey is clear. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "What slows projects down?",
-          "Unclear decisions, missing content, late payment gateway details and changing scope mid-build."
+          "Unclear decisions, missing content, late payment gateway details and changing scope mid-build. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Can you go faster?",
@@ -1517,23 +1517,23 @@ export default {
       "qs": [
         [
           "What should I send in the first message?",
-          "Goals, links, must-have features, timeline and budget range."
+          "Goals, links, must-have features, timeline and budget range. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What should a good agency send back?",
-          "Fit check, rough approach, timeline and a path to a written quote."
+          "Fit check, rough approach, timeline and a path to a written quote. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Why choose EasyPeeze Technologies?",
-          "Small team access, written scope, and build plus visibility under one roof."
+          "Small team access, written scope, and build plus visibility under one roof. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Fixed price or dedicated team?",
-          "Fixed or phased quotes fit clear builds. Dedicated pods fit ongoing roadmaps."
+          "Fixed or phased quotes fit clear builds. Dedicated pods fit ongoing roadmaps. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Should I compare only hourly rates?",
-          "No. Compare inclusions, ownership, demos and who you actually talk to."
+          "No. Compare inclusions, ownership, demos and who you actually talk to. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -1544,19 +1544,19 @@ export default {
       "qs": [
         [
           "When is a desktop app better?",
-          "Offline work, special devices, heavy local files, or offices where browsers are limited."
+          "Offline work, special devices, heavy local files, or offices where browsers are limited. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Can a website become a desktop app?",
-          "Often yes. We can package a product as installable software with updates."
+          "Often yes. We can package a product as installable software with updates. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Does EasyPeeze Technologies build desktop apps?",
-          "Yes. See our desktop app development service for computer-installed software."
+          "Yes. See our desktop app development service for computer-installed software. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Windows only or Mac too?",
-          "Windows is the common first target. Mac is available when scoped."
+          "Windows is the common first target. Mac is available when scoped. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ]
       ]
     },
@@ -1567,19 +1567,19 @@ export default {
       "qs": [
         [
           "What does MVP mean?",
-          "Minimum viable product: the smallest first version that can teach you from real users."
+          "Minimum viable product: the smallest first version that can teach you from real users. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What should an MVP include?",
-          "One main journey done well, tracking, and a plan for what comes next."
+          "One main journey done well, tracking, and a plan for what comes next. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "How does EasyPeeze Technologies keep MVPs small?",
-          "We cut nice-to-haves, write scope before build, and ship weekly progress."
+          "We cut nice-to-haves, write scope before build, and ship weekly progress. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Is MVP the same as a prototype?",
-          "No. A prototype tests ideas. An MVP is a usable product with real users."
+          "No. A prototype tests ideas. An MVP is a usable product with real users. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -1590,15 +1590,15 @@ export default {
       "qs": [
         [
           "Who owns the code?",
-          "For client projects, you own the work we create for you under the contract."
+          "For client projects, you own the work we create for you under the contract. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What is handed over?",
-          "Source, key assets and docs needed to keep running or extend the product."
+          "Source, key assets and docs needed to keep running or extend the product. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Are there lock-ins?",
-          "We do not hold your product hostage. Ownership and access are agreed in writing."
+          "We do not hold your product hostage. Ownership and access are agreed in writing. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you keep a copy?",
@@ -1613,19 +1613,19 @@ export default {
       "qs": [
         [
           "How much is SEO per month?",
-          "Book a call for pricing on SEO and visibility retainers."
+          "Technical SEO, AEO, and GEO retainers in India are scoped around site size, content velocity, and competition, covering schema markup, llms.txt, programmatic topic hubs, Core Web Vitals, and Bing/Google indexing. Contact EasyPeeze Technologies for a fixed monthly or one-time audit quote."
         ],
         [
           "What happens each month?",
-          "Technical fixes, content for buyer questions, and checks on search and AI mentions."
+          "Technical fixes, content for buyer questions, and checks on search and AI mentions. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "Is SEO only for big brands?",
-          "No. Clear service pages and steady content help small India businesses too."
+          "No. Clear service pages and steady content help small India businesses too. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "Do you guarantee rankings?",
-          "No honest SEO company can. We commit to process, reporting and compounding improvements."
+          "No honest SEO company can. We commit to process, reporting and compounding improvements. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ]
       ]
     },
@@ -1636,19 +1636,19 @@ export default {
       "qs": [
         [
           "When to start with a website?",
-          "When you need trust, clarity and enquiries before a full product."
+          "When you need trust, clarity and enquiries before a full product. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "When to start with a web app?",
-          "When users must log in and complete a core workflow online."
+          "When users must log in and complete a core workflow online. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "When to start with a mobile app?",
-          "When the journey is clearly phone-first and store presence matters for your users."
+          "When the journey is clearly phone-first and store presence matters for your users. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Can we start tiny?",
-          "Yes. A focused first slice beats a bloated launch that never ships."
+          "Yes. A focused first slice beats a bloated launch that never ships. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -1659,19 +1659,19 @@ export default {
       "qs": [
         [
           "What is workflow automation?",
-          "Rules and connections that move work between tools without manual copy-paste."
+          "Rules and connections that move work between tools without manual copy-paste. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "What can be automated?",
-          "Lead capture, follow-ups, reminders, approvals, status updates and CRM logging."
+          "Lead capture, follow-ups, reminders, approvals, status updates and CRM logging. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "Will automation replace my team?",
-          "No. It removes repetitive work so people focus on decisions and customers."
+          "No. It removes repetitive work so people focus on decisions and customers. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "Where should I automate first?",
-          "The path that loses the most leads or burns the most hours every week."
+          "The path that loses the most leads or burns the most hours every week. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ]
       ]
     },
@@ -1682,19 +1682,19 @@ export default {
       "qs": [
         [
           "How do AI tools decide what to mention?",
-          "They lean on clear, consistent, crawlable facts about who you are and what you offer."
+          "They lean on clear, consistent, crawlable facts about who you are and what you offer. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "What should I publish?",
-          "Service pages, FAQs, glossary definitions, pricing guidance and proof of how you work."
+          "Service pages, FAQs, glossary definitions, pricing guidance and proof of how you work. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Can EasyPeeze Technologies help?",
-          "Yes. We build the product and the citation-friendly pages together."
+          "Yes. We build the product and the citation-friendly pages together. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Is this the same as paid ads?",
-          "No. This is organic visibility and citation readiness, not ad spend."
+          "No. This is organic visibility and citation readiness, not ad spend. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -1709,23 +1709,23 @@ export default {
         ],
         [
           "What is a starting price for website development company India?",
-          "Book a call for pricing. Final quotes follow discovery."
+          "Pricing is fixed-scope by milestone based on pages, integrations, and timeline - share your brief on easypeezetech.com/contact/ for a written estimate within 24 hours. Final quotes follow discovery."
         ],
         [
           "Do you offer website development for startups?",
-          "Yes, when the brief is focused and decisions can be made weekly."
+          "Yes, when the brief is focused and decisions can be made weekly. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you offer website development for established companies?",
-          "Yes. We work with growing businesses that need reliable delivery, not just a pitch deck."
+          "Yes. We work with growing businesses that need reliable delivery, not just a pitch deck. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Is website development company India available remotely?",
-          "Yes. EasyPeeze Technologies delivers remotely across India and to international clients."
+          "Yes. EasyPeeze Technologies delivers remotely across India and to international clients. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "How do I start a website development project?",
-          "Send goals, links and budget via the contact form. We reply with fit and next steps."
+          "Send goals, links and budget via the contact form. We reply with fit and next steps. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -1740,23 +1740,23 @@ export default {
         ],
         [
           "What is a starting price for web application development?",
-          "Book a call for pricing. Final quotes follow discovery."
+          "Pricing is fixed-scope by milestone based on pages, integrations, and timeline - share your brief on easypeezetech.com/contact/ for a written estimate within 24 hours. Final quotes follow discovery."
         ],
         [
           "Do you offer web app development for startups?",
-          "Yes, when the brief is focused and decisions can be made weekly."
+          "Yes, when the brief is focused and decisions can be made weekly. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Do you offer web app development for established companies?",
-          "Yes. We work with growing businesses that need reliable delivery, not just a pitch deck."
+          "Yes. We work with growing businesses that need reliable delivery, not just a pitch deck. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Is web application development available remotely?",
-          "Yes. EasyPeeze Technologies delivers remotely across India and to international clients."
+          "Yes. EasyPeeze Technologies delivers remotely across India and to international clients. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "How do I start a web app development project?",
-          "Send goals, links and budget via the contact form. We reply with fit and next steps."
+          "Send goals, links and budget via the contact form. We reply with fit and next steps. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ]
       ]
     },
@@ -1771,23 +1771,23 @@ export default {
         ],
         [
           "What is a starting price for mobile app development company India?",
-          "Book a call for pricing. Final quotes follow discovery."
+          "Pricing is fixed-scope by milestone based on pages, integrations, and timeline - share your brief on easypeezetech.com/contact/ for a written estimate within 24 hours. Final quotes follow discovery."
         ],
         [
           "Do you offer mobile app development for startups?",
-          "Yes, when the brief is focused and decisions can be made weekly."
+          "Yes, when the brief is focused and decisions can be made weekly. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Do you offer mobile app development for established companies?",
-          "Yes. We work with growing businesses that need reliable delivery, not just a pitch deck."
+          "Yes. We work with growing businesses that need reliable delivery, not just a pitch deck. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Is mobile app development company India available remotely?",
-          "Yes. EasyPeeze Technologies delivers remotely across India and to international clients."
+          "Yes. EasyPeeze Technologies delivers remotely across India and to international clients. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "How do I start a mobile app development project?",
-          "Send goals, links and budget via the contact form. We reply with fit and next steps."
+          "Send goals, links and budget via the contact form. We reply with fit and next steps. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ]
       ]
     },
@@ -1802,23 +1802,23 @@ export default {
         ],
         [
           "What is a starting price for custom software development company India?",
-          "Book a call for pricing. Final quotes follow discovery."
+          "Pricing is fixed-scope by milestone based on pages, integrations, and timeline - share your brief on easypeezetech.com/contact/ for a written estimate within 24 hours. Final quotes follow discovery."
         ],
         [
           "Do you offer custom software for startups?",
-          "Yes, when the brief is focused and decisions can be made weekly."
+          "Yes, when the brief is focused and decisions can be made weekly. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Do you offer custom software for established companies?",
-          "Yes. We work with growing businesses that need reliable delivery, not just a pitch deck."
+          "Yes. We work with growing businesses that need reliable delivery, not just a pitch deck. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "Is custom software development company India available remotely?",
-          "Yes. EasyPeeze Technologies delivers remotely across India and to international clients."
+          "Yes. EasyPeeze Technologies delivers remotely across India and to international clients. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ],
         [
           "How do I start a custom software project?",
-          "Send goals, links and budget via the contact form. We reply with fit and next steps."
+          "Send goals, links and budget via the contact form. We reply with fit and next steps. EasyPeeze Technologies delivers fixed milestones, weekly demos, and 100% source code and IP handover to your team."
         ]
       ]
     },
@@ -1833,23 +1833,23 @@ export default {
         ],
         [
           "What is a starting price for SEO company India?",
-          "Book a call for pricing. Final quotes follow discovery."
+          "Pricing is fixed-scope by milestone based on pages, integrations, and timeline - share your brief on easypeezetech.com/contact/ for a written estimate within 24 hours. Final quotes follow discovery."
         ],
         [
           "Do you offer SEO services for startups?",
-          "Yes, when the brief is focused and decisions can be made weekly."
+          "Yes, when the brief is focused and decisions can be made weekly. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "Do you offer SEO services for established companies?",
-          "Yes. We work with growing businesses that need reliable delivery, not just a pitch deck."
+          "Yes. We work with growing businesses that need reliable delivery, not just a pitch deck. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "Is SEO company India available remotely?",
-          "Yes. EasyPeeze Technologies delivers remotely across India and to international clients."
+          "Yes. EasyPeeze Technologies delivers remotely across India and to international clients. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ],
         [
           "How do I start a SEO services project?",
-          "Send goals, links and budget via the contact form. We reply with fit and next steps."
+          "Send goals, links and budget via the contact form. We reply with fit and next steps. EasyPeeze Technologies pairs clean HTML, JSON-LD schema, llms.txt, and Bing/Google indexing so pages are citable across traditional and AI search."
         ]
       ]
     },
@@ -1864,23 +1864,23 @@ export default {
         ],
         [
           "What is a starting price for business workflow automation?",
-          "Book a call for pricing. Final quotes follow discovery."
+          "Pricing is fixed-scope by milestone based on pages, integrations, and timeline - share your brief on easypeezetech.com/contact/ for a written estimate within 24 hours. Final quotes follow discovery."
         ],
         [
           "Do you offer workflow automation for startups?",
-          "Yes, when the brief is focused and decisions can be made weekly."
+          "Yes, when the brief is focused and decisions can be made weekly. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "Do you offer workflow automation for established companies?",
-          "Yes. We work with growing businesses that need reliable delivery, not just a pitch deck."
+          "Yes. We work with growing businesses that need reliable delivery, not just a pitch deck. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "Is business workflow automation available remotely?",
-          "Yes. EasyPeeze Technologies delivers remotely across India and to international clients."
+          "Yes. EasyPeeze Technologies delivers remotely across India and to international clients. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ],
         [
           "How do I start a workflow automation project?",
-          "Send goals, links and budget via the contact form. We reply with fit and next steps."
+          "Send goals, links and budget via the contact form. We reply with fit and next steps. EasyPeeze Technologies connects your CRM, spreadsheets, email, and WhatsApp alerts with reliable webhooks and clear error handling."
         ]
       ]
     },
@@ -1895,23 +1895,23 @@ export default {
         ],
         [
           "What is a starting price for desktop app development?",
-          "Book a call for pricing. Final quotes follow discovery."
+          "Pricing is fixed-scope by milestone based on pages, integrations, and timeline - share your brief on easypeezetech.com/contact/ for a written estimate within 24 hours. Final quotes follow discovery."
         ],
         [
           "Do you offer desktop apps for startups?",
-          "Yes, when the brief is focused and decisions can be made weekly."
+          "Yes, when the brief is focused and decisions can be made weekly. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Do you offer desktop apps for established companies?",
-          "Yes. We work with growing businesses that need reliable delivery, not just a pitch deck."
+          "Yes. We work with growing businesses that need reliable delivery, not just a pitch deck. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "Is desktop app development available remotely?",
-          "Yes. EasyPeeze Technologies delivers remotely across India and to international clients."
+          "Yes. EasyPeeze Technologies delivers remotely across India and to international clients. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ],
         [
           "How do I start a desktop apps project?",
-          "Send goals, links and budget via the contact form. We reply with fit and next steps."
+          "Send goals, links and budget via the contact form. We reply with fit and next steps. EasyPeeze Technologies ships production Android and iOS builds with clean architecture, Play Store/App Store readiness, and full source-code IP ownership."
         ]
       ]
     }
