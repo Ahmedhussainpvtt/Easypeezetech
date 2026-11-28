@@ -2,7 +2,7 @@ export const BRAND = 'EasyPeeze Technologies'
 export const EMAIL = 'info@easypeezetech.com'
 export const SITE = 'https://easypeezetech.com'
 export const BOOKING_URL = 'https://calendly.com/easypeeze/30min'
-export const TAGLINE = 'Technology built around your idea.'
+export const TAGLINE = 'Technology That Moves You Forward'
 export const LOCATION = 'Hyderabad, Telangana, India'
 export const SOCIALS = [
   { id: 'linkedin', label: 'LinkedIn', href: 'https://www.linkedin.com/company/easypeezetech' },
