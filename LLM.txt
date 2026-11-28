@@ -2,7 +2,7 @@
 
 > EasyPeeze Technologies is a custom software development company in India offering web development, mobile app development (Flutter and React Native), desktop apps (Electron and Tauri), custom CRM/ERP software, technical SEO, AEO, GEO / LLM SEO, and workflow automation for startups and growing businesses.
 
-Last updated: 2026-11-27
+Last updated: 2026-11-28
 Canonical site: https://easypeezetech.com/
 Sitemap: https://easypeezetech.com/sitemap.xml
 Full corpus: https://easypeezetech.com/llms-full.txt
